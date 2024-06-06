@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 #from crew import get_geminiresponse
-from crew import get_geminiresponse
+#from crew import get_geminiresponse
 
 
 # Title and file upload

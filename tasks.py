@@ -21,5 +21,5 @@ write_task = Task(
   tools=[tool],
   agent=news_writer,
   async_execution=False,
-  output_file='abc22.md'  # Example of output customization
+  output_file='Case-Updates.md'  # Example of output customization
 )
